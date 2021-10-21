@@ -4,6 +4,8 @@
 
 #### 👋Hi there! I'm junior backend developer using Java-Spring.🔥 
 
+------------
+
 ## 💪Skills
 ### Platforms & Languages
 <a href="mailto:minseok.jeong.james@gmail.com" target="_blank"><img src="https://img.shields.io/badge/minseok.jeong.james@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>

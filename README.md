@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesWithCode&show_icons=true&theme=vue)
+------------
 ### 👋Hi there! I'm junior backend developer using Java-Spring.🔥 
 <a href="https://www.instagram.com/min___51/" target="_blank"><img src="https://img.shields.io/badge/min___51-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://james-dev.notion.site/James-dev-log-5a1ce9913449407983c075c669b5ff33" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
@@ -27,5 +29,4 @@
 <a href="mailto:minseok.jeong.james@gmail.com" target="_blank"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/></a>
 <a href="mailto:minseok.jeong.james@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/></a>
 
-##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesWithCode&show_icons=true&theme=vue)
+

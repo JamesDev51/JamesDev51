@@ -5,3 +5,10 @@
 ### 👋Hi there! I'm junior backend developer using Java-Spring.🔥 
 
 # 💪Skills
+## Platforms & Languages
+<img src="https://img.shields.io/badge/minseok.jeong.james@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/minseok.jeong.james@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/minseok.jeong.james@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/minseok.jeong.james@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/minseok.jeong.james@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>

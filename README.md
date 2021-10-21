@@ -6,9 +6,10 @@
 
 # 💪Skills
 ## Platforms & Languages
-<img src="https://img.shields.io/badge/minseok.jeong.james@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<a href="mailto:minseok.jeong.james@gmail.com" target="_blank"><img src="https://img.shields.io/badge/minseok.jeong.james@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:minseok.jeong.james@gmail.com" target="_blank"><img src="https://img.shields.io/badge/minseok.jeong.james@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <br>
-<img src="https://img.shields.io/badge/minseok.jeong.james@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-<img src="https://img.shields.io/badge/minseok.jeong.james@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-<img src="https://img.shields.io/badge/minseok.jeong.james@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-<img src="https://img.shields.io/badge/minseok.jeong.james@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<a href="mailto:minseok.jeong.james@gmail.com" target="_blank"><img src="https://img.shields.io/badge/minseok.jeong.james@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:minseok.jeong.james@gmail.com" target="_blank"><img src="https://img.shields.io/badge/minseok.jeong.james@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:minseok.jeong.james@gmail.com" target="_blank"><img src="https://img.shields.io/badge/minseok.jeong.james@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+

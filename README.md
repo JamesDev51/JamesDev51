@@ -26,3 +26,6 @@
 ### Tools
 <a href="mailto:minseok.jeong.james@gmail.com" target="_blank"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/></a>
 <a href="mailto:minseok.jeong.james@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/></a>
+
+##
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesWithCode&show_icons=true&theme=radical)

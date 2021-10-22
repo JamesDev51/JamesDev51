@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JamesWithCode&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=slice&color=default(#B897FF)&height=300&section=header&text=JamesWithCode&fontSize=60)
 
 
 ### 👋Hi there! I'm junior backend developer using Java-Spring.🔥 

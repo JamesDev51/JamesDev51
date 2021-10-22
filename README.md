@@ -1,4 +1,9 @@
+
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=slice&color=85AB03&height=300&section=header&text=JamesWithCode&fontSize=100)
+
+
 
 
 ### 👋Hi there! I'm junior backend developer using Java-Spring.🔥 
@@ -23,3 +28,5 @@
 <a href="mailto:minseok.jeong.james@gmail.com" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
 <a href="mailto:minseok.jeong.james@gmail.com" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/></a>
  
+  내용물
+</div>

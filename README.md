@@ -11,7 +11,7 @@
 <a href="https://james-dev.notion.site/James-dev-log-5a1ce9913449407983c075c669b5ff33" target="_blank"><img src="https://img.shields.io/badge/James_dev-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 <a href="mailto:minseok.jeong.james@gmail.com" target="_blank"><img src="https://img.shields.io/badge/minseok.jeong.james@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
-## 💪Dev Stacks
+## 💪Dev Stack
 ### Platforms & Languages
 <a href="mailto:minseok.jeong.james@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>
 <a href="mailto:minseok.jeong.james@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/></a>

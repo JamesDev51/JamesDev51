@@ -1,10 +1,8 @@
 
 <div align="center">
+# Minseok Jeong
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=27a8f0&height=300&section=header&text=JamesWithCode&fontSize=100)
-
-
-
+ <br>
 
 ### 👋Hi there! I'm junior backend developer using Java-Spring.🔥 
 <a href="https://www.instagram.com/min___51/" target="_blank"><img src="https://img.shields.io/badge/min___51-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>

@@ -26,9 +26,11 @@
 <a href="mailto:minseok.jeong.james@gmail.com" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/></a>
 
 ## Github
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesWithCode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JamesWithCode)](https://github.com/anuraghazra/github-readme-stats)
 
+## Problem solving
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={alstjr3060})](https://solved.ac/{alstjr3060})
 
 
 </div>

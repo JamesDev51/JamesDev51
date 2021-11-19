@@ -1,8 +1,7 @@
 
 <div align="center">
-# Minseok Jeong
+# JamesWithCode
 
- <br>
 
 ### 👋Hi there! I'm junior backend developer using Java-Spring.🔥 
 <a href="https://www.instagram.com/min___51/" target="_blank"><img src="https://img.shields.io/badge/min___51-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>

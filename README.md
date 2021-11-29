@@ -16,6 +16,10 @@
 ## Study
 <a href="https://james-dev.notion.site/James-dev-log-5a1ce9913449407983c075c669b5ff33" target="_blank"><img src="https://img.shields.io/badge/James_dev-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 
+<iframe src="http://tcpschool.com">
+    <p>현재 사용 중인 브라우저는 iframe 요소를 지원하지 않습니다!</p>
+</iframe>
+
 
 ## Dev stack
 <a href="mailto:minseok.jeong.james@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>

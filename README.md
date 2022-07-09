@@ -15,7 +15,7 @@
 
 
 ## Study
-<a href="https://james-dev.notion.site/James-dev-log-5a1ce9913449407983c075c669b5ff33" target="_blank"><img src="https://img.shields.io/badge/James_dev-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+<a href="https://james-dev.notion.site/JAMES-DEV-BLOG-21b32e8af21e4c108ff91af57796c12f" target="_blank"><img src="https://img.shields.io/badge/James_dev-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 
 
 

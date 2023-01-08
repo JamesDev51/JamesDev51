@@ -1,5 +1,5 @@
 
-# JamesWithCode
+# JamesDev51
 > Name : 정민석  
 > 
 > Email : minseok.jeong.james@gmail.com
@@ -15,7 +15,7 @@
 
 
 ## Study
-<a href="https://james-dev.notion.site/JAMES-DEV-BLOG-21b32e8af21e4c108ff91af57796c12f" target="_blank"><img src="https://img.shields.io/badge/James_dev-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+<a href="james-dev.notion.site" target="_blank"><img src="https://img.shields.io/badge/James_dev-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 
 
 

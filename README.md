@@ -12,6 +12,10 @@
 >
 > Expected graduation : Feb 2024
 
+## Career
+> (주)비틀웍스 (2022.02 ~ )  
+> devOps / Back-end
+
 
 
 ## Study

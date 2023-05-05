@@ -15,7 +15,7 @@
 
 
 ## Study
-<a href="james-dev.notion.site" target="_blank"><img src="https://img.shields.io/badge/James_dev-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+<a href="https://james-dev.notion.site" target="_blank"><img src="https://img.shields.io/badge/James_dev-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 
 
 

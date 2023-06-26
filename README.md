@@ -33,7 +33,7 @@
 
 
 ## Github
-   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JamesWithCode)](https://github.com/anuraghazra/github-readme-stats)
+   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JamesDev51)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Problem solving

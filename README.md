@@ -13,8 +13,11 @@
 > Expected graduation : Feb 2024
 
 ## Career
-> (주)비틀웍스 (2022.02 ~ )  
-> devOps / Back-end
+> 삼성SDS (2023.07 ~ 2023.08)  
+> Software engineering Intern
+
+> (주)비틀웍스 (2022.03 ~ 2023.06)  
+> DevOps / Backend
 
 
 

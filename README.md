@@ -6,11 +6,9 @@
 
 
 ## Education
-> Korea Aerospace University (2018.03 ~ )  
+> Korea Aerospace University (2018.03 ~ 2024.02)  
 >
 > Major : Computer Science and Engineering  
->
-> Expected graduation : Feb 2024
 
 ## Career
 > 삼성SDS (2024.02 ~ )  
